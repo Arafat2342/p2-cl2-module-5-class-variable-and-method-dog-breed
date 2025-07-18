@@ -21,4 +21,4 @@ firstObj = dog('blub dog')
 secondObj = dog('german shefered')     
 
 firstObj.display()
-secondObj.display()
+secondObj.display() 
